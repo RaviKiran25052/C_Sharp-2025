@@ -1,0 +1,14 @@
+D:\Learn\C_Sharp-2025\FirstConsoleApp\bin\Debug\net9.0\FirstConsoleApp.exe
+D:\Learn\C_Sharp-2025\FirstConsoleApp\bin\Debug\net9.0\FirstConsoleApp.deps.json
+D:\Learn\C_Sharp-2025\FirstConsoleApp\bin\Debug\net9.0\FirstConsoleApp.runtimeconfig.json
+D:\Learn\C_Sharp-2025\FirstConsoleApp\bin\Debug\net9.0\FirstConsoleApp.dll
+D:\Learn\C_Sharp-2025\FirstConsoleApp\bin\Debug\net9.0\FirstConsoleApp.pdb
+D:\Learn\C_Sharp-2025\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C_Sharp-2025\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.AssemblyInfoInputs.cache
+D:\Learn\C_Sharp-2025\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.AssemblyInfo.cs
+D:\Learn\C_Sharp-2025\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.csproj.CoreCompileInputs.cache
+D:\Learn\C_Sharp-2025\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.dll
+D:\Learn\C_Sharp-2025\FirstConsoleApp\obj\Debug\net9.0\refint\FirstConsoleApp.dll
+D:\Learn\C_Sharp-2025\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.pdb
+D:\Learn\C_Sharp-2025\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.genruntimeconfig.cache
+D:\Learn\C_Sharp-2025\FirstConsoleApp\obj\Debug\net9.0\ref\FirstConsoleApp.dll
